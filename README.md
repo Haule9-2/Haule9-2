@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hau</h1>
-<img align="center" alt="Coding" width="1200" height="300" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haule9-2&label=Profile%20views&color=0e75b6&style=flat" alt="haule9-2" /> </p>
 
 
